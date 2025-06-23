@@ -15,7 +15,7 @@
 
 ### Sobre mim
 
-Tenho 17 anos, moro em São Paulo e curso o último ano do ensino médio. Desenvolvo projetos práticos com disciplina e consistência com base em meu curso técnico em desenvolvimento de sistemas.
+Tenho 17 anos, moro em São Paulo e curso o último ano do ensino médio. Desenvolvo projetos práticos com disciplina e consistência com base em meu curso técnico em Desenvolvimento de Sistemas.
 
 ---
 
